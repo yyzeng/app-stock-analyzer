@@ -8,4 +8,4 @@ You can find the app on [shinyapps.io](https://christophscheuch.shinyapps.io/app
 
 ## How to use the app
 
-...
+yes it is
