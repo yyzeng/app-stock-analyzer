@@ -5,3 +5,7 @@ This shiny app computes stock-specific return metrics and optimal portfolio weig
 This app is a prototype based on the book [Tidy Finance with R](https://www.tidy-finance.org/r/introduction-to-tidy-finance.html) and a submission for the [2024 Table Contest](https://posit.co/blog/announcing-the-2024-table-contest/).
 
 You can find the app on [shinyapps.io](https://christophscheuch.shinyapps.io/app-stock-analyzer/).
+
+## How to use the app
+
+...
